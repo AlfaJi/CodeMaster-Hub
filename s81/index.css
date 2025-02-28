@@ -1,0 +1,16 @@
+
+body {
+    background: linear-gradient(45deg, #00b09b, #96c93d);
+}
+
+.navbar {
+    background: linear-gradient(45deg, #134E5E, #71B280);
+}
+
+.card {
+    background: linear-gradient(45deg, #a8e063, #00b4db);
+}
+
+.card-cover {
+    height: 50px; /* Adjust as needed */
+}
